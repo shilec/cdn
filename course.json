@@ -2,93 +2,27 @@
   "data": [
     {
       "itemType": 2,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
+      "title": "自动拨号(Auto call phone)",
+      "url": "video/auto_phone_number.mp4",
+      "coverUrl": "images/auto_phone_number.jpg"
     },
     {
       "itemType": 2,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
+      "title": "自动发消息(Auto sms)",
+      "url": "video/auto_send_msg.mp4",
+      "coverUrl": "images/auto_send_msg.jpg"
     },
     {
       "itemType": 2,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
+      "title": "应用使用概览(App use guide)",
+      "url": "video/full_control.mp4",
+      "coverUrl": "images/full_control.jpg"
     },
     {
       "itemType": 2,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
-    },
-    {
-      "itemType": 2,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
-    },
-    {
-      "itemType": 2,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
-    },
-    {
-      "itemType": 2,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
-    },
-    {
-      "itemType": 3,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
-    },
-    {
-      "itemType": 3,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
-    },
-    {
-      "itemType": 3,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
-    },
-    {
-      "itemType": 3,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
-    },
-    {
-      "itemType": 3,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
-    },
-    {
-      "itemType": 3,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
-    },
-    {
-      "itemType": 3,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
-    },
-    {
-      "itemType": 3,
-      "title": "test",
-      "url": "video/test.mp4",
-      "coverUrl": "images/test.jpeg"
+      "title": "自动号码(Auto call phone)",
+      "url": "video/record_phone_number.mp4",
+      "coverUrl": "images/record_phone_number.jpg"
     }
   ]
 }
