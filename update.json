@@ -7,6 +7,6 @@
        "description": "新版本上线了，赶紧去更新吧!",
        "apk_url": "apk/automatic-elf-5-release.apk",
        "deep_link:": "",
-       "upgrade_from_market": false
+       "upgrade_from_market": true
    }
 }
