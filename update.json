@@ -3,7 +3,7 @@
        "version_name": "2.5.5",
        "version_code": 30,
        "title": "V2.5.5版本更新",
-       "force_update": true,
+       "force_update": false,
        "description": "1.优化点击快速点击频率，每秒25次左右。\n2.重新调整控制面板，交互更加友好。\n3.优化一些界面UI细节，体验更加友好。\n4.修复一些用户反馈的bug和已知的问题。\n\n完全免费无广告，快来下载体验吧~",
        "apk_url": "apk/automatic-elf-30-release-010000.apk",
        "deep_link:": "",
