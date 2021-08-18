@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "itemType": 2,
+      "title": "权限开启说明",
+      "url": "resource/course/permission.mp4",
+      "coverUrl": "resource/course/permission_img.png"
+    },
+     {
+      "itemType": 2,
+      "title": "手势录制说明",
+      "url": "resource/course/gesture_record.mp4",
+      "coverUrl": "resource/course/gesture_record_img.png"
+    },
+     {
+      "itemType": 2,
+      "title": "定时执行说明",
+      "url": "resource/course/alarm.mp4",
+      "coverUrl": "resource/course/alarm_img.jpg"
+    },
+     {
+      "itemType": 2,
+      "title": "任务录制说明",
+      "url": "resource/course/task_record.mp4",
+      "coverUrl": "resource/course/task_record_img.jpg"
+    },
+     {
+      "itemType": 2,
+      "title": "快速点击说明",
+      "url": "resource/course/fast_click.mp4",
+      "coverUrl": "resource/course/fast_click_img.png"
+    }
+  ]
+}
