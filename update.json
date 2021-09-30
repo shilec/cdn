@@ -1,11 +1,11 @@
 {
    "data" : {
-       "version_name": "2.5.7",
-       "version_code": 32,
-       "title": "V2.5.7版本更新",
+       "version_name": "2.5.8.1",
+       "version_code": 34,
+       "title": "V2.5.8(+2.5.8.1)版本更新",
        "force_update": false,
-       "description": "1.优化点击速率，最高可达每秒250次(实际点击速率跟手机新能相关)。\n2.增加录制解锁手势，锁屏下可以自动解锁执行。\n3.增加任务克隆，避免重复录制。\n4.增加录制的任务坐标修改，微调一下，适配各种场景。\n5.优化一些UI细节和功能点，优化后台执行内存占用，优化后台电量消耗，运行更加稳定。 ",
-       "apk_url": "apk/automatic-elf-32-release-international-010000.apk",
+       "description": "1.(2.5.8补丁包)，修复线上闪退问题。\n2.控制面板界面调整，交互更加简单友好。\n3.增加极速点击配置保存，设置记录。\n4.增加测测手速功能，手快手慢，一测便知。\n5.重构文本匹配功能，更加适用，功能更加强大。\n6.优化极速点击速度，让极速点击更加极速。\n7.解决NNNN个BUG，解决了NNNN个用户反馈问题。\n8.由于改动多，没法一一列出了。各位大佬自行体验发现吧~\n\n完全免费无广告，快来下载体验吧~\n",
+       "apk_url": "apk/automatic-elf-34-release-national-010000.apk",
        "deep_link:": "",
        "upgrade_from_market": false
    }
