@@ -2,33 +2,57 @@
   "data": [
     {
       "itemType": 2,
+      "title": "快速点击说明",
+      "url": "resource/course/fast_click.mp4",
+      "coverUrl": "resource/course/fast_click.png"
+    },
+    {
+      "itemType": 2,
+      "title": "手势录制说明",
+      "url": "resource/course/rules_record.mp4",
+      "coverUrl": "resource/course/rules_record.png"
+    },
+    {
+      "itemType": 2,
+      "title": "文本匹配(选择)",
+      "url": "resource/course/text_match_1.mp4",
+      "coverUrl": "resource/course/text_match_1.png"
+    },
+    {
+      "itemType": 2,
+      "title": "文本匹配(输入)",
+      "url": "resource/course/text_match_2.mp4",
+      "coverUrl": "resource/course/text_match_2.png"
+    },
+    {
+      "itemType": 2,
+      "title": "扫描点击",
+      "url": "resource/course/scan_click.mp4",
+      "coverUrl": "resource/course/scan_click.png"
+    },
+    {
+      "itemType": 2,
+      "title": "自动输入",
+      "url": "resource/course/auto_input.mp4",
+      "coverUrl": "resource/course/auto_input.png"
+    },
+    {
+      "itemType": 2,
+      "title": "编辑任务说明",
+      "url": "resource/course/edit_rules.mp4",
+      "coverUrl": "resource/course/edit_rules_img.png"
+    },
+    {
+      "itemType": 2,
       "title": "权限开启说明",
       "url": "resource/course/permission.mp4",
       "coverUrl": "resource/course/permission_img.png"
     },
-     {
-      "itemType": 2,
-      "title": "手势录制说明",
-      "url": "resource/course/gesture_record.mp4",
-      "coverUrl": "resource/course/gesture_record_img.png"
-    },
-     {
+    {
       "itemType": 2,
       "title": "定时执行说明",
       "url": "resource/course/alarm.mp4",
       "coverUrl": "resource/course/alarm_img.jpg"
-    },
-     {
-      "itemType": 2,
-      "title": "任务录制说明",
-      "url": "resource/course/task_record.mp4",
-      "coverUrl": "resource/course/task_record_img.jpg"
-    },
-     {
-      "itemType": 2,
-      "title": "快速点击说明",
-      "url": "resource/course/fast_click.mp4",
-      "coverUrl": "resource/course/fast_click_img.png"
     }
   ]
 }
